@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06f4e12f-4188-4a60-88a7-a62534191b41" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
-    </list>
+    <list default="true" id="06f4e12f-4188-4a60-88a7-a62534191b41" name="Default" comment="" />
     <ignored path="fcc_conference.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
