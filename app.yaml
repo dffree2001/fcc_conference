@@ -6,3 +6,12 @@ api_version: go1
 handlers:
 - url: /.*
   script: _go_app
+
+pagespeed:
+  domains_to_rewrite:
+  - www.summerwebbootcamp.com
+#  url_blacklist:
+  enabled_rewriters:
+  - MinifyCss
+ # disabled_rewriters:
+ # - ImageStripColorProfile
