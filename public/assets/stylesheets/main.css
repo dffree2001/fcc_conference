@@ -590,5 +590,11 @@ aside ul {
     margin: auto;
 }
 
+.flex {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
 
 
